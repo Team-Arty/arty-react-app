@@ -1,0 +1,35 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+SQLAlchemy = "*"
+databases = "*"
+requests = "*"
+pandas = "*"
+uvicorn = "*"
+fastapi = "*"
+aiofiles = "*"
+google-cloud-storage = "*"
+python-multipart = "*"
+install = "*"
+asyncpg = "*"
+python-jose = {extras = ["cryptography"], version = "*"}
+passlib = {extras = ["bcrypt"], version = "*"}
+pytest = "*"
+pytest-asyncio = "*"
+google-auth = "*"
+tensorflow = "*"
+tensorflow-hub = "*"
+pytorch = "*"
+pillow = "*"
+torch = "1.3.1"
+torchvision = "0.4.2"
+scikit-learn = "0.21.3" 
+nltk = "3.4.5"
+
+[requires]
+python_version = "3.8"

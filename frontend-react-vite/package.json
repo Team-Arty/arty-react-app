@@ -1,0 +1,31 @@
+{
+  "name": "arty",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-spring": "^9.2.4",
+    "wouter": "^2.7.4",
+    "react-helmet-async": "^1.0.9",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.1",
+    "react-number-format": "^4.7.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "vite": "^2.6.4"
+  },
+  "resolutions": {
+    "react-scripts/eslint-webpack-plugin": "2.3.0"
+  }
+}
