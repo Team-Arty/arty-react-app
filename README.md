@@ -2,7 +2,7 @@
 
 **Team Members: Niegil, Sakthisree, Surojit, Anah, Shivani, Nagapriya**
 
-**Arty** - the app that lets individuals with visual impairments experience museum art through subjective and emotive captions that are played out loud for the user.
+**Arty** - the app that lets individuals with visual impairments experience museum art via subjective and emotive captions that are played out loud for the user.
 
 A sample output for a painting
 <img src="arty_painting.gif" alt="App" width="1000"/>
